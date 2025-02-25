@@ -3,7 +3,7 @@ Este proyecto es la respuesta del desafió "Amigo secreto", de la plataforma de 
 
 #  Sorteo de Amigo Secreto
 
-Este proyecto es una aplicación web sencilla que permite agregar nombres a una lista y realizar un sorteo aleatorio para elegir un "amigo secreto". También notifica si lo que se agrega no corresponde a nombres, y tambien lo hace si se quiere realizar el sorteo sin agregar nombres previamente.
+Este proyecto es una aplicación web sencilla que permite agregar nombres a una lista y realizar un sorteo aleatorio para elegir un "amigo secreto". También notifica si lo que se agrega no corresponde a nombres, y tambien lo hace si se quiere realizar el sorteo sin agregar nombres previamente. No se pueden ingresar mas de una vez el mismo nombre.
 
 ##  Índice
 1. [ Descripción del Proyecto](#-descripción-del-proyecto)
